@@ -1,10 +1,6 @@
 ### New readme
 
 ```
-git remote -v
-```
-
-```
 git remote add <remote_name> <url>
 ```
 example:
@@ -34,6 +30,12 @@ What is a tracking branch
 
 It is a local branch tracking a remote branch
 
+To list all remotes
+```
+git remote -v
+```
+
+List tracking branches
 ```
 git branch -vv
 ```
