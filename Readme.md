@@ -14,6 +14,8 @@ Typing `git remote` should now show `origin`
 #### pushing
 
 To push the master in the remote repo to cloud repo
+
+example:
 ```
 git push origin master
 ```
