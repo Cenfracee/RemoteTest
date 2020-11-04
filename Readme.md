@@ -43,3 +43,12 @@ git branch -vv
 ```
 git push -u origin master
 ```
+
+###credentail store
+
+add cfedential helper
+
+```
+git config --global --list
+git config --global --add credential.helper store
+````
