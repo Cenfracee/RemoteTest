@@ -46,9 +46,22 @@ git push -u origin master
 
 ###credentail store
 
-add cfedential helper
+add credential helper
 
 ```
 git config --global --list
 git config --global --add credential.helper store
 ````
+First use of credential will save it to credential.helper
+
+
+
+flex-direction
+flex-wrap
+flex-flow
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills
+https://flexboxfroggy.com/
+https://www.learnflexbox.org/
+justify-content
+align-items
+align-self
